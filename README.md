@@ -18,7 +18,7 @@ This project was a collaborative effort between two sutdents enrolled in the Pep
 
 Tellaporte is a financial wellness application for the community of Nurses. We have chosen Nurses because they are a brilliant and dedicated group of people that give selflessly of themselves almost every day. Because nurses care more for others than themselves and are continuously challenged with life and death every day, they often neglect their health and the health of their retirement. In a nurse's mind, money does not matter relative to the demands of their job and the needs of their patients. With this in mind, we wrote Tellaporte to aid the nurses in financial wellness by simply building an application that speaks the language of nurses so that they can easily understand and correlate their financial wellness in the terminology they already know. Nurses are there for our wellness. Now Tellaporte is there for their financial wellness.
 
-![Tellaporte](/images/tellaporte.jpg)
+![Tellaporte](tellaporte.jpg)
 
 ## Dependencies
 
