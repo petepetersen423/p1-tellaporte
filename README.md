@@ -7,7 +7,7 @@
 
 This project was a collaborative effort between two sutdents enrolled in the Pepperdine Bootcamp.  We were charged with developing a fintech application using some of the techniques we leaned in the previous 8 weeks.  Telleporte is the result
 
-# Project Deliveravles  
+# Project Deliverables  
 
 [Tellaporte Project Website](https://tellaporte.godaddysites.com/)  
 
