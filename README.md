@@ -9,9 +9,9 @@ This project was a collaborative effort between two sutdents enrolled in the Pep
 
 # Project Deliveravles  
 
-['Tellaporte Project Website'](https://tellaporte.godaddysites.com/)  
+[Tellaporte Project Website](https://tellaporte.godaddysites.com/)  
 
-['Tellaporte Pitch Deck'](https://docs.google.com/presentation/d/1tjTHTjb50yCuq5buGgM85Py6MKm5J6Bn/edit#slide=id.g11a97544c2e_1_11)  
+[Tellaporte Pitch Deck](https://docs.google.com/presentation/d/1tjTHTjb50yCuq5buGgM85Py6MKm5J6Bn/edit#slide=id.g11a97544c2e_1_11)  
 
 
 # Background
