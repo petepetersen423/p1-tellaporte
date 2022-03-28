@@ -1,15 +1,18 @@
-# *ETF Analyzer*                                  
+# *Tellaporte*                                  
 
-### By: Pete Petersen  
+### By: Pete Petersen and Dakota Braxton 
         March 27, 2022  
 ---
 **Welcome to the ETF Analyzer Project we call Tellaporte!**
 
 This project was a collaborative effort between two sutdents enrolled in the Pepperdine Bootcamp.  We were charged with developing a fintech application using some of the techniques we leaned in the previous 8 weeks.  Telleporte is the result
 
-# Project Deliveravles
-['Tellaporte Project Website'](https://tellaporte.godaddysites.com/)
-['Tellaporte Pitch Deck'](https://docs.google.com/presentation/d/1tjTHTjb50yCuq5buGgM85Py6MKm5J6Bn/edit#slide=id.g11a97544c2e_1_11)
+# Project Deliveravles  
+
+['Tellaporte Project Website'](https://tellaporte.godaddysites.com/)  
+
+['Tellaporte Pitch Deck'](https://docs.google.com/presentation/d/1tjTHTjb50yCuq5buGgM85Py6MKm5J6Bn/edit#slide=id.g11a97544c2e_1_11)  
+
 
 # Background
 
