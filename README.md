@@ -1,7 +1,8 @@
-# *Tellaporte*                                  
+# *Tellaporte*
 
-### By: Pete Petersen and Dakota Braxton 
-        March 27, 2022  
+### By: Pete Petersen and Dakota Braxton
+
+        March 28, 2022  
 ---
 **Welcome to the ETF Analyzer Project we call Tellaporte!**
 
@@ -12,7 +13,6 @@ This project was a collaborative effort between two sutdents enrolled in the Pep
 [Tellaporte Project Website](https://tellaporte.godaddysites.com/)  
 
 [Tellaporte Pitch Deck](https://docs.google.com/presentation/d/1tjTHTjb50yCuq5buGgM85Py6MKm5J6Bn/edit#slide=id.g11a97544c2e_1_11)  
-
 
 # Background
 
@@ -36,10 +36,11 @@ from dotenv import load_dotenv
 
 
 ```
+
 The /data directory contains all the parquet files needed for the analysis so you do not need to get API keys.  However if you have keys and the files do not exist the app will generate new data.
 
 ## Files
-   
+
     ETF.ipynb
     /data/
         etf_const
@@ -48,4 +49,3 @@ The /data directory contains all the parquet files needed for the analysis so yo
         prices
         tech_ind
         zacks
-
